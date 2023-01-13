@@ -1,0 +1,18 @@
+{
+  "id": "foundryvtt-currency",
+  "title": "foundryvtt-currency",
+  "description": "Breaks down a set of currency for a party",
+  "authors": [
+    {
+      "name": "Havok"
+    }
+  ],
+  "scripts": [
+    "dist/bundle.js"
+  ],
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "10",
+    "verified": "10"
+  }
+}
